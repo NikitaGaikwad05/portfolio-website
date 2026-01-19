@@ -1,11 +1,7 @@
 🌐 Personal Portfolio Website
 
 This is a **modern and clean personal portfolio website** built using **HTML5** and **CSS3**.  
-It showcases **personal information, skills, and a contact section** in a professional layout. Perfect for internship submissions, portfolios, or showcasing your web development skills.
-
- 🚀 Live Demo
-
-👉 [View Live Website](https://nikitagaikwad05.github.io/Personal-Portfolio/)  
+It showcases **personal information, skills, and a contact section** in a professional layout.
 
  📌 Features ⭐
 
@@ -47,3 +43,4 @@ It showcases **personal information, skills, and a contact section** in a profes
 
 
   🙌 Thanks for Visiting!
+
