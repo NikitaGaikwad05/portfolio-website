@@ -5,11 +5,16 @@ It showcases **personal information, skills, and a contact section** in a profes
 
  📌 Features ⭐
 
- ✨ **Clean and responsive design** with CSS styling  
+ ✨ **Clean and responsive design** with CSS styling 
+ 
  👤 **About Section** – Introduction about me
+ 
  🛠️ **Skills Section** – Highlighted my technichal skills.
+ 
  ✉️ **Contact Form** – Fully working HTML form with validation  
+ 
  🔗 **Internal navigation links** for smooth scrolling  
+ 
  
  🛠️ Technologies Used
 
@@ -43,4 +48,5 @@ It showcases **personal information, skills, and a contact section** in a profes
 
 
   🙌 Thanks for Visiting!
+
 
