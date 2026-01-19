@@ -38,8 +38,12 @@ It showcases **personal information, skills, and a contact section** in a profes
 
   👩‍💻 Author
      Nikita Gaikwad
+     
   🐙 Github:https://github.com/NikitaGaikwad05
+  
   💼 Linkdin:https://www.linkedin.com/in/gaikwad-nikita-436016327
+  
   ✉️ Email: gaikwadnikitamahadev1@gmail.com
+
 
   🙌 Thanks for Visiting!
